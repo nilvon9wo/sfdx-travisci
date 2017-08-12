@@ -1,4 +1,5 @@
-.certificates
+assets/server.key
+certificates
 .classpath
 .DS_Store
 .idea
