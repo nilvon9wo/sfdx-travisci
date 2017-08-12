@@ -1,11 +1,12 @@
+.certificates
 .classpath
 .DS_Store
-.sfdx
+.idea
 .project
 .salesforce
-node_modules
-.idea
-.tern-project
 .settings
+.sfdx
+.tern-project
+node_modules
 selenium-client-jars/
 test/artifacts
